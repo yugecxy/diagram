@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T07:59:37.493Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="mETDcuVIX4Rd6hfhM9Zd" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-21T08:01:20.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="h1feBhFRHBltjEamAbEV" version="12.5.5" type="github">
   <diagram id="M_dirfUd4a91RtG49mVg" name="Page-1">
     <mxGraphModel dx="1163" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,6 +72,18 @@
         </mxCell>
         <mxCell id="Zzy0RxifWcgGenKRZsW1-11" value="mock_node" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#B3B3B3;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="690" y="130" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Zzy0RxifWcgGenKRZsW1-15" value="mock_node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="100" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Zzy0RxifWcgGenKRZsW1-16" value="fork_node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Zzy0RxifWcgGenKRZsW1-17" value="fork_node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="110" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Zzy0RxifWcgGenKRZsW1-19" value="job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
