@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T04:36:28.718Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="VcmbvMXEsip2jNcJZ7vN" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-17T04:36:42.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="kC8-K9TT7ALBrCGTy4w0" version="12.7.0" type="github">
   <diagram id="M_dirfUd4a91RtG49mVg" name="Page-1">
     <mxGraphModel dx="1109" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,10 +86,10 @@
           <mxGeometry x="650" y="100" width="167" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="uUodR2btJpkQ9OOTqiJk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#FF66FF;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="605" y="455" width="40" height="30" as="geometry"/>
+          <mxGeometry x="605" y="460" width="40" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="uUodR2btJpkQ9OOTqiJk-2" value="表示被划分节点组成的一个job" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="643.5" y="460" width="180" height="20" as="geometry"/>
+          <mxGeometry x="643.5" y="465" width="180" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="uUodR2btJpkQ9OOTqiJk-10" value="表示的是fork_node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="645" y="410" width="120" height="20" as="geometry"/>
