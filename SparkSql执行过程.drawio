@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-20T00:28:32.302Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="yIstpcLamfxJs7weHmxa" version="13.6.5" type="github">
+<mxfile modified="2021-02-20T00:59:34.700Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="d3vvElR9GDXuaf3v4ZHB" version="13.6.5" type="github">
   <diagram id="dt9gVWyhlOoFSgmwXe27" name="Page-1">
     <mxGraphModel dx="2013" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,35 +30,6 @@
         <mxCell id="-dyHjd3bptGtPjj9Zdof-23" value="&lt;pre&gt;&lt;pre&gt;dataset&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="205" y="390" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pKj4gWHQKjA0kMIVy3WO-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="pKj4gWHQKjA0kMIVy3WO-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="1540" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pKj4gWHQKjA0kMIVy3WO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pKj4gWHQKjA0kMIVy3WO-12" target="pKj4gWHQKjA0kMIVy3WO-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pKj4gWHQKjA0kMIVy3WO-12" value="&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;span&gt;analyzed:&lt;/span&gt;LogicalPlan&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="205" y="1580" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="axlH73A9_Z8-cDt6JRsq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pKj4gWHQKjA0kMIVy3WO-15" target="axlH73A9_Z8-cDt6JRsq-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pKj4gWHQKjA0kMIVy3WO-15" value="&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;span&gt;optimizedPlan:&lt;/span&gt;LogicalPlan&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="205" y="1670" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="axlH73A9_Z8-cDt6JRsq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="axlH73A9_Z8-cDt6JRsq-1" target="pKj4gWHQKjA0kMIVy3WO-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="axlH73A9_Z8-cDt6JRsq-1" value="&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;span&gt;sparkPlan:&lt;/span&gt;SparkPlan&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="205" y="1762.5" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="axlH73A9_Z8-cDt6JRsq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pKj4gWHQKjA0kMIVy3WO-17" target="axlH73A9_Z8-cDt6JRsq-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pKj4gWHQKjA0kMIVy3WO-17" value="&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;executedPlan&lt;span&gt;:&lt;/span&gt;SparkPlan&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="205" y="1860" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="-dyHjd3bptGtPjj9Zdof-10" value="&lt;pre&gt;&lt;span&gt;sessionState&lt;/span&gt;.sqlParser.parsePlan(sqlText)：&lt;/pre&gt;借助antlr（一种语法分析器）来对字符串做语法分析" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="130" y="135" width="320" height="50" as="geometry" />
         </mxCell>
@@ -73,30 +44,6 @@
         </mxCell>
         <mxCell id="pKj4gWHQKjA0kMIVy3WO-11" value="df.select()/df.union等" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="-100" y="550" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="axlH73A9_Z8-cDt6JRsq-3" value="&lt;pre&gt;planner:QueryPlanner的plan方法将LogicalPlan转换为physical plans&lt;/pre&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1663.5" width="450" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="axlH73A9_Z8-cDt6JRsq-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1600" width="20" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="axlH73A9_Z8-cDt6JRsq-6" value="&lt;pre&gt;qe.&lt;span&gt;executedPlan&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1725" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="axlH73A9_Z8-cDt6JRsq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="axlH73A9_Z8-cDt6JRsq-7" target="axlH73A9_Z8-cDt6JRsq-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="axlH73A9_Z8-cDt6JRsq-7" value="&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;UnaryExecNode.&lt;span&gt;doExecute:&lt;/span&gt;RDD[InternalRow]&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="220" y="2020" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="axlH73A9_Z8-cDt6JRsq-8" value="&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;执行rdd的action操作&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="230" y="2190" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="axlH73A9_Z8-cDt6JRsq-11" value="&lt;pre&gt;&lt;span&gt;Produces the result of the query as an &lt;/span&gt;&lt;span&gt;`&lt;/span&gt;&lt;span&gt;RDD[InternalRow]&lt;/span&gt;&lt;span&gt;`&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1602.5" width="430" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="axlH73A9_Z8-cDt6JRsq-14" value="head、show等方法" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="1761" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d70ykFKuIf1G3HS4-Ldp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d70ykFKuIf1G3HS4-Ldp-1" target="d70ykFKuIf1G3HS4-Ldp-6">
           <mxGeometry relative="1" as="geometry" />
@@ -128,7 +75,7 @@
           <mxGeometry x="85" y="640" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d70ykFKuIf1G3HS4-Ldp-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="420" width="50" height="290" as="geometry" />
+          <mxGeometry x="20" y="420" width="50" height="280" as="geometry" />
         </mxCell>
         <mxCell id="d70ykFKuIf1G3HS4-Ldp-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="110" width="50" height="305" as="geometry" />
@@ -136,11 +83,28 @@
         <mxCell id="d70ykFKuIf1G3HS4-Ldp-15" value="spark.sql(&quot;sqlStr&quot;)" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="-95" y="252.5" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d70ykFKuIf1G3HS4-Ldp-23" value="df.show()/df.head，然后调用qe.executedPlan.executeCollect()等方法来执行物理计划" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="55" y="750" width="470" height="20" as="geometry" />
+        <mxCell id="d70ykFKuIf1G3HS4-Ldp-23" value="通过qe.executedPlan生成一系列rdd" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="175" y="750" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d70ykFKuIf1G3HS4-Ldp-24" value="action操作" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="195" y="800" width="120" height="60" as="geometry" />
+        <mxCell id="d70ykFKuIf1G3HS4-Ldp-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d70ykFKuIf1G3HS4-Ldp-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d70ykFKuIf1G3HS4-Ldp-27" value="&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;RDD[InternalRow]&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="205" y="800" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d70ykFKuIf1G3HS4-Ldp-30" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;pre style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;执行rdd的action操作&lt;/pre&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="195" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d70ykFKuIf1G3HS4-Ldp-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="700" width="20" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="d70ykFKuIf1G3HS4-Ldp-32" value="df.head()/df.show()等方法" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="805" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d70ykFKuIf1G3HS4-Ldp-33" value="物理计划执行过程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="830" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
