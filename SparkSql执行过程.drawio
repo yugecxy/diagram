@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-20T00:04:58.262Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="iDlsTuIg9wjZ25oeBQVA" version="13.6.5" type="github">
+<mxfile modified="2021-02-20T00:28:32.302Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="yIstpcLamfxJs7weHmxa" version="13.6.5" type="github">
   <diagram id="dt9gVWyhlOoFSgmwXe27" name="Page-1">
     <mxGraphModel dx="2013" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,32 +32,32 @@
         </mxCell>
         <mxCell id="pKj4gWHQKjA0kMIVy3WO-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="pKj4gWHQKjA0kMIVy3WO-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="1090" as="sourcePoint" />
+            <mxPoint x="260" y="1540" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKj4gWHQKjA0kMIVy3WO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pKj4gWHQKjA0kMIVy3WO-12" target="pKj4gWHQKjA0kMIVy3WO-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pKj4gWHQKjA0kMIVy3WO-12" value="&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;span&gt;analyzed:&lt;/span&gt;LogicalPlan&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="225" y="1130" width="110" height="50" as="geometry" />
+          <mxGeometry x="205" y="1580" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="axlH73A9_Z8-cDt6JRsq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pKj4gWHQKjA0kMIVy3WO-15" target="axlH73A9_Z8-cDt6JRsq-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pKj4gWHQKjA0kMIVy3WO-15" value="&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;span&gt;optimizedPlan:&lt;/span&gt;LogicalPlan&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="225" y="1220" width="110" height="50" as="geometry" />
+          <mxGeometry x="205" y="1670" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="axlH73A9_Z8-cDt6JRsq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="axlH73A9_Z8-cDt6JRsq-1" target="pKj4gWHQKjA0kMIVy3WO-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="axlH73A9_Z8-cDt6JRsq-1" value="&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;span&gt;sparkPlan:&lt;/span&gt;SparkPlan&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="225" y="1312.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="205" y="1762.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="axlH73A9_Z8-cDt6JRsq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pKj4gWHQKjA0kMIVy3WO-17" target="axlH73A9_Z8-cDt6JRsq-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pKj4gWHQKjA0kMIVy3WO-17" value="&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;executedPlan&lt;span&gt;:&lt;/span&gt;SparkPlan&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="225" y="1410" width="110" height="50" as="geometry" />
+          <mxGeometry x="205" y="1860" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-dyHjd3bptGtPjj9Zdof-10" value="&lt;pre&gt;&lt;span&gt;sessionState&lt;/span&gt;.sqlParser.parsePlan(sqlText)：&lt;/pre&gt;借助antlr（一种语法分析器）来对字符串做语法分析" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="130" y="135" width="320" height="50" as="geometry" />
@@ -75,31 +75,28 @@
           <mxGeometry x="-100" y="550" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="axlH73A9_Z8-cDt6JRsq-3" value="&lt;pre&gt;planner:QueryPlanner的plan方法将LogicalPlan转换为physical plans&lt;/pre&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="350" y="1213.5" width="450" height="40" as="geometry" />
+          <mxGeometry x="330" y="1663.5" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="axlH73A9_Z8-cDt6JRsq-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1150" width="20" height="290" as="geometry" />
+          <mxGeometry x="130" y="1600" width="20" height="290" as="geometry" />
         </mxCell>
         <mxCell id="axlH73A9_Z8-cDt6JRsq-6" value="&lt;pre&gt;qe.&lt;span&gt;executedPlan&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1275" width="120" height="40" as="geometry" />
+          <mxGeometry x="10" y="1725" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="axlH73A9_Z8-cDt6JRsq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="axlH73A9_Z8-cDt6JRsq-7" target="axlH73A9_Z8-cDt6JRsq-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="axlH73A9_Z8-cDt6JRsq-7" value="&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;UnaryExecNode.&lt;span&gt;doExecute:&lt;/span&gt;RDD[InternalRow]&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1570" width="110" height="50" as="geometry" />
+          <mxGeometry x="220" y="2020" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="axlH73A9_Z8-cDt6JRsq-8" value="&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;&lt;pre&gt;执行rdd的action操作&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1740" width="110" height="50" as="geometry" />
+          <mxGeometry x="230" y="2190" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="axlH73A9_Z8-cDt6JRsq-11" value="&lt;pre&gt;&lt;span&gt;Produces the result of the query as an &lt;/span&gt;&lt;span&gt;`&lt;/span&gt;&lt;span&gt;RDD[InternalRow]&lt;/span&gt;&lt;span&gt;`&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="280" y="1152.5" width="430" height="40" as="geometry" />
+          <mxGeometry x="260" y="1602.5" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="axlH73A9_Z8-cDt6JRsq-14" value="head、show等方法" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="1311" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="axlH73A9_Z8-cDt6JRsq-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="65" y="840" width="20" height="460" as="geometry" />
+          <mxGeometry x="-40" y="1761" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d70ykFKuIf1G3HS4-Ldp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d70ykFKuIf1G3HS4-Ldp-1" target="d70ykFKuIf1G3HS4-Ldp-6">
           <mxGeometry relative="1" as="geometry" />
@@ -115,6 +112,11 @@
         </mxCell>
         <mxCell id="d70ykFKuIf1G3HS4-Ldp-6" value="&lt;pre&gt;&lt;pre&gt;queryExecution&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="205" y="580" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d70ykFKuIf1G3HS4-Ldp-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d70ykFKuIf1G3HS4-Ldp-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="d70ykFKuIf1G3HS4-Ldp-7" value="&lt;pre&gt;&lt;pre&gt;dataset&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="205" y="680" width="110" height="50" as="geometry" />
@@ -133,6 +135,12 @@
         </mxCell>
         <mxCell id="d70ykFKuIf1G3HS4-Ldp-15" value="spark.sql(&quot;sqlStr&quot;)" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="-95" y="252.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d70ykFKuIf1G3HS4-Ldp-23" value="df.show()/df.head，然后调用qe.executedPlan.executeCollect()等方法来执行物理计划" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="55" y="750" width="470" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d70ykFKuIf1G3HS4-Ldp-24" value="action操作" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="195" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
